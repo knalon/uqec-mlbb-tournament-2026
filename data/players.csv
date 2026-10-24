@@ -1,78 +1,78 @@
 ﻿player_id,team_id,roster_position,name_my,name_en,class,review_status
-P001,T01,1,,,7A,needs-clearer-photo
-P002,T01,2,,,7A,needs-clearer-photo
-P003,T01,3,,,,needs-clearer-photo
-P004,T01,4,,,7B,needs-clearer-photo
-P005,T01,5,,,,needs-clearer-photo
-P006,T01,6,,,,needs-clearer-photo
-P007,T02,1,,,10A,needs-clearer-photo
-P008,T02,2,,,,needs-clearer-photo
-P009,T02,3,,,,needs-clearer-photo
-P010,T02,4,,,,needs-clearer-photo
-P011,T02,5,,,,needs-clearer-photo
-P012,T03,1,,,FC,needs-clearer-photo
-P013,T03,2,,,,needs-clearer-photo
-P014,T03,3,,,,needs-clearer-photo
-P015,T03,4,,,,needs-clearer-photo
-P016,T03,5,,,,needs-clearer-photo
-P017,T04,1,,,10B,needs-clearer-photo
-P018,T04,2,,,10B,needs-clearer-photo
-P019,T04,3,,,8A,needs-clearer-photo
-P020,T04,4,,,8B,needs-clearer-photo
-P021,T04,5,,Joelmin,8B,transcribed-check-spelling
-P022,T05,1,,,6C,needs-clearer-photo
-P023,T05,2,,,,needs-clearer-photo
-P024,T05,3,,,,needs-clearer-photo
-P025,T05,4,,,,needs-clearer-photo
-P026,T05,5,,,,needs-clearer-photo
-P027,T06,1,,,9B,needs-clearer-photo
-P028,T06,2,,,9B,needs-clearer-photo
-P029,T06,3,,,9B,needs-clearer-photo
-P030,T06,4,,,9B,needs-clearer-photo
-P031,T06,5,,,9B,needs-clearer-photo
-P032,T07,1,,,6C,needs-clearer-photo
-P033,T07,2,,,6A,needs-clearer-photo
-P034,T07,3,,,6B,needs-clearer-photo
-P035,T07,4,,,6B,needs-clearer-photo
-P036,T07,5,,,6B,needs-clearer-photo
-P037,T08,1,,,8A,needs-clearer-photo
-P038,T08,2,,,8B,needs-clearer-photo
-P039,T08,3,,,8B,needs-clearer-photo
-P040,T08,4,,,5C,needs-clearer-photo
-P041,T08,5,,,5C,needs-clearer-photo
-P042,T09,1,,,9A,needs-clearer-photo
-P043,T09,2,,,9B,needs-clearer-photo
-P044,T09,3,,,9A,needs-clearer-photo
-P045,T09,4,,,9A,needs-clearer-photo
-P046,T09,5,,,9B,needs-clearer-photo
-P047,T10,1,,,G-10,needs-clearer-photo
-P048,T10,2,,,,needs-clearer-photo
-P049,T10,3,,,,needs-clearer-photo
-P050,T10,4,,,,needs-clearer-photo
-P051,T10,5,,,,needs-clearer-photo
-P052,T11,1,,,9A,needs-clearer-photo
-P053,T11,2,,,8A,needs-clearer-photo
-P054,T11,3,,,,needs-clearer-photo
-P055,T11,4,,,,needs-clearer-photo
-P056,T11,5,,,,needs-clearer-photo
-P057,T12,1,,,8B,needs-clearer-photo
-P058,T12,2,,,8B,needs-clearer-photo
-P059,T12,3,,,8B,needs-clearer-photo
-P060,T12,4,,,,needs-clearer-photo
-P061,T12,5,,,10A,needs-clearer-photo
-P062,T13,1,,,6B,needs-clearer-photo
-P063,T13,2,,,,needs-clearer-photo
-P064,T13,3,,,,needs-clearer-photo
-P065,T13,4,,,,needs-clearer-photo
-P066,T13,5,,,,needs-clearer-photo
-P067,T14,1,,,7B,needs-clearer-photo
-P068,T14,2,,,,needs-clearer-photo
-P069,T14,3,,,,needs-clearer-photo
-P070,T14,4,,,,needs-clearer-photo
-P071,T14,5,,,,needs-clearer-photo
-P072,T14,6,,,,needs-clearer-photo
-P073,T15,1,,,11B,needs-clearer-photo
-P074,T15,2,,,,needs-clearer-photo
-P075,T15,3,,,,needs-clearer-photo
-P076,T15,4,,,,needs-clearer-photo
-P077,T15,5,,,,needs-clearer-photo
+P001,T11,1,,Demo Player 01,,demo-placeholder
+P002,T01,1,,Demo Player 02,8B,demo-placeholder
+P003,T12,1,,Demo Player 03,7A,demo-placeholder
+P004,T11,2,,Demo Player 04,5C,demo-placeholder
+P005,T14,1,,Demo Player 05,6A,demo-placeholder
+P006,T11,3,,Demo Player 06,10A,demo-placeholder
+P007,T15,1,,Demo Player 07,7B,demo-placeholder
+P008,T08,1,,Demo Player 08,8B,demo-placeholder
+P009,T10,1,,Demo Player 09,,demo-placeholder
+P010,T05,1,,Demo Player 10,8B,demo-placeholder
+P011,T12,2,,Demo Player 11,,demo-placeholder
+P012,T09,1,,Demo Player 12,,demo-placeholder
+P013,T12,3,,Demo Player 13,7B,demo-placeholder
+P014,T03,1,,Demo Player 14,,demo-placeholder
+P015,T01,2,,Demo Player 15,,demo-placeholder
+P016,T05,2,,Demo Player 16,8B,demo-placeholder
+P017,T04,1,,Demo Player 17,,demo-placeholder
+P018,T03,2,,Demo Player 18,,demo-placeholder
+P019,T06,1,,Demo Player 19,10B,demo-placeholder
+P020,T14,2,,Demo Player 20,,demo-placeholder
+P021,T15,2,,Joelmin,6B,transcribed-check-spelling
+P022,T11,4,,Demo Player 22,9A,demo-placeholder
+P023,T13,1,,Joelmin,8B,needs-verification
+P024,T05,3,,Demo Player 24,9B,demo-placeholder
+P025,T15,3,,Demo Player 25,7A,demo-placeholder
+P026,T12,4,,Demo Player 26,,demo-placeholder
+P027,T10,2,,Demo Player 27,9A,demo-placeholder
+P028,T06,2,,Demo Player 28,8B,demo-placeholder
+P029,T01,3,,Demo Player 29,9B,demo-placeholder
+P030,T02,1,,Demo Player 30,9B,demo-placeholder
+P031,T13,2,,Demo Player 31,,demo-placeholder
+P032,T13,3,,Demo Player 32,6B,demo-placeholder
+P033,T06,3,,Demo Player 33,,demo-placeholder
+P034,T04,2,,Demo Player 34,8A,demo-placeholder
+P035,T02,2,,Demo Player 35,8B,demo-placeholder
+P036,T13,4,,Demo Player 36,,demo-placeholder
+P037,T09,2,,Demo Player 37,,demo-placeholder
+P038,T13,5,,Demo Player 38,,demo-placeholder
+P039,T09,3,,Demo Player 39,,demo-placeholder
+P040,T02,3,,Demo Player 40,,demo-placeholder
+P041,T15,4,,Demo Player 41,8A,demo-placeholder
+P042,T04,3,,Demo Player 42,,demo-placeholder
+P043,T14,3,,Demo Player 43,,demo-placeholder
+P044,T12,5,,Demo Player 44,,demo-placeholder
+P045,T07,1,,Demo Player 45,FC,demo-placeholder
+P046,T07,2,,Demo Player 46,10B,demo-placeholder
+P047,T04,4,,Demo Player 47,9A,demo-placeholder
+P048,T15,5,,Demo Player 48,6B,demo-placeholder
+P049,T10,3,,Demo Player 49,,demo-placeholder
+P050,T01,4,,Demo Player 50,8A,demo-placeholder
+P051,T07,3,,Demo Player 51,,demo-placeholder
+P052,T06,4,,Demo Player 52,9A,demo-placeholder
+P053,T09,4,,Demo Player 53,,demo-placeholder
+P054,T14,4,,Demo Player 54,,demo-placeholder
+P055,T03,3,,Demo Player 55,,demo-placeholder
+P056,T11,5,,Demo Player 56,,demo-placeholder
+P057,T05,4,,Demo Player 57,6C,demo-placeholder
+P058,T08,2,,Demo Player 58,,demo-placeholder
+P059,T05,5,,Demo Player 59,6C,demo-placeholder
+P060,T08,3,,Demo Player 60,9B,demo-placeholder
+P061,T09,5,,Demo Player 61,5C,demo-placeholder
+P062,T03,4,,Demo Player 62,,demo-placeholder
+P063,T04,5,,Demo Player 63,9B,demo-placeholder
+P064,T14,5,,Demo Player 64,,demo-placeholder
+P065,T08,4,,Demo Player 65,,demo-placeholder
+P066,T10,4,,Demo Player 66,9B,demo-placeholder
+P067,T07,4,,Demo Player 67,G-10,demo-placeholder
+P068,T10,5,,Demo Player 68,,demo-placeholder
+P069,T06,5,,Demo Player 69,,demo-placeholder
+P070,T08,5,,Demo Player 70,10A,demo-placeholder
+P071,T02,4,,Demo Player 71,11B,demo-placeholder
+P072,T01,5,,Demo Player 72,,demo-placeholder
+P073,T03,5,,Demo Player 73,9B,demo-placeholder
+P074,T02,5,မင်းသန့်ကိုကို,Min Thant Ko Ko,6B,tentative-myglish
+P075,T01,6,ဖြိုးမင်းဟန်,Phyo Min Han,,tentative-myglish
+P076,T07,5,,Thet Myat Htet,,tentative-myglish
+P077,T02,6,,Zin Kyaw Htet,,tentative-myglish
