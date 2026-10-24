@@ -1,78 +1,76 @@
 ﻿player_id,team_id,roster_position,name_my,name_en,class,review_status
-P001,T01,1,,,7A,needs-clearer-photo
-P002,T01,2,,,7A,needs-clearer-photo
-P003,T01,3,,,,needs-clearer-photo
-P004,T01,4,,,7B,needs-clearer-photo
-P005,T01,5,,,,needs-clearer-photo
-P006,T01,6,,,,needs-clearer-photo
-P007,T02,1,,,10A,needs-clearer-photo
-P008,T02,2,,,,needs-clearer-photo
-P009,T02,3,,,,needs-clearer-photo
-P010,T02,4,,,,needs-clearer-photo
-P011,T02,5,,,,needs-clearer-photo
-P012,T03,1,,,FC,needs-clearer-photo
-P013,T03,2,,,,needs-clearer-photo
-P014,T03,3,,,,needs-clearer-photo
-P015,T03,4,,,,needs-clearer-photo
-P016,T03,5,,,,needs-clearer-photo
-P017,T04,1,,,10B,needs-clearer-photo
-P018,T04,2,,,10B,needs-clearer-photo
-P019,T04,3,,,8A,needs-clearer-photo
-P020,T04,4,,,8B,needs-clearer-photo
-P021,T04,5,,Joelmin,8B,transcribed-check-spelling
-P022,T05,1,,,6C,needs-clearer-photo
-P023,T05,2,,,,needs-clearer-photo
-P024,T05,3,,,,needs-clearer-photo
-P025,T05,4,,,,needs-clearer-photo
-P026,T05,5,,,,needs-clearer-photo
-P027,T06,1,,,9B,needs-clearer-photo
-P028,T06,2,,,9B,needs-clearer-photo
-P029,T06,3,,,9B,needs-clearer-photo
-P030,T06,4,,,9B,needs-clearer-photo
-P031,T06,5,,,9B,needs-clearer-photo
-P032,T07,1,,,6C,needs-clearer-photo
-P033,T07,2,,,6A,needs-clearer-photo
-P034,T07,3,,,6B,needs-clearer-photo
-P035,T07,4,,,6B,needs-clearer-photo
-P036,T07,5,,,6B,needs-clearer-photo
-P037,T08,1,,,8A,needs-clearer-photo
-P038,T08,2,,,8B,needs-clearer-photo
-P039,T08,3,,,8B,needs-clearer-photo
-P040,T08,4,,,5C,needs-clearer-photo
-P041,T08,5,,,5C,needs-clearer-photo
-P042,T09,1,,,9A,needs-clearer-photo
-P043,T09,2,,,9B,needs-clearer-photo
-P044,T09,3,,,9A,needs-clearer-photo
-P045,T09,4,,,9A,needs-clearer-photo
-P046,T09,5,,,9B,needs-clearer-photo
-P047,T10,1,,,G-10,needs-clearer-photo
-P048,T10,2,,,,needs-clearer-photo
-P049,T10,3,,,,needs-clearer-photo
-P050,T10,4,,,,needs-clearer-photo
-P051,T10,5,,,,needs-clearer-photo
-P052,T11,1,,,9A,needs-clearer-photo
-P053,T11,2,,,8A,needs-clearer-photo
-P054,T11,3,,,,needs-clearer-photo
-P055,T11,4,,,,needs-clearer-photo
-P056,T11,5,,,,needs-clearer-photo
-P057,T12,1,,,8B,needs-clearer-photo
-P058,T12,2,,,8B,needs-clearer-photo
-P059,T12,3,,,8B,needs-clearer-photo
-P060,T12,4,,,,needs-clearer-photo
-P061,T12,5,,,10A,needs-clearer-photo
-P062,T13,1,,,6B,needs-clearer-photo
-P063,T13,2,,,,needs-clearer-photo
-P064,T13,3,,,,needs-clearer-photo
-P065,T13,4,,,,needs-clearer-photo
-P066,T13,5,,,,needs-clearer-photo
-P067,T14,1,,,7B,needs-clearer-photo
-P068,T14,2,,,,needs-clearer-photo
-P069,T14,3,,,,needs-clearer-photo
-P070,T14,4,,,,needs-clearer-photo
-P071,T14,5,,,,needs-clearer-photo
-P072,T14,6,,,,needs-clearer-photo
-P073,T15,1,,,11B,needs-clearer-photo
-P074,T15,2,,,,needs-clearer-photo
-P075,T15,3,,,,needs-clearer-photo
-P076,T15,4,,,,needs-clearer-photo
-P077,T15,5,,,,needs-clearer-photo
+P001,T01,1,,Min Lin Tun,10A,fictional-demo
+P002,T01,2,,Htet Myat Min,9A,fictional-demo
+P003,T01,3,,Han Ko Wai,9B,fictional-demo
+P004,T01,4,,Htet Ko Min,10B,fictional-demo
+P005,T01,5,,Sai Oo Min,7A,fictional-demo
+P006,T02,1,,Aung Khant Tun,9B,fictional-demo
+P007,T02,2,,Han Ko Kyaw,7B,fictional-demo
+P008,T02,3,,Si Aung Aung,7B,fictional-demo
+P009,T02,4,,Nyan Myat Kyaw,10B,fictional-demo
+P010,T02,5,,Aung Lin Win,8A,fictional-demo
+P011,T03,1,,Nyi Tun Khant,8A,fictional-demo
+P012,T03,2,,Thant Thant Aung,8B,fictional-demo
+P013,T03,3,,Myat Myat Tun,11B,fictional-demo
+P014,T03,4,,Naing Win Thant,7B,fictional-demo
+P015,T03,5,,Si Yan Min,10B,fictional-demo
+P016,T04,1,,Moe Paing Htet,9B,fictional-demo
+P017,T04,2,,Thant Paing Yan,8B,fictional-demo
+P018,T04,3,,Nyi Wai Zaw,10A,fictional-demo
+P019,T04,4,,Soe Aung Nyein,8A,fictional-demo
+P020,T04,5,,Kyaw Lin Khant,7A,fictional-demo
+P021,T05,1,,Thant Ko Oo,8A,fictional-demo
+P022,T05,2,,Thura Htun Htun,9B,fictional-demo
+P023,T05,3,,Lin Myat Thant,11B,fictional-demo
+P024,T05,4,,Zin Lin Zaw,11B,fictional-demo
+P025,T05,5,,Thant Ko Kyaw,11B,fictional-demo
+P026,T06,1,,Swan Htet Min,11B,fictional-demo
+P027,T06,2,,Pyae Ko Myat,11B,fictional-demo
+P028,T06,3,,Kaung Win Aung,9A,fictional-demo
+P029,T06,4,,Thura Myat Nyein,10A,fictional-demo
+P030,T06,5,,Thiha Htet Kyaw,11B,fictional-demo
+P031,T07,1,,Htun Wai Khant,9A,fictional-demo
+P032,T07,2,,Swan Htet Htun,9B,fictional-demo
+P033,T07,3,,Swan Wai Oo,10A,fictional-demo
+P034,T07,4,,Pyae Lin Phyo,10A,fictional-demo
+P035,T07,5,,Aung Thant Nyein,11B,fictional-demo
+P036,T08,1,,Thura Myat Myat,10B,fictional-demo
+P037,T08,2,,Pyae Aung Oo,7A,fictional-demo
+P038,T08,3,,Htet Win Ko,10A,fictional-demo
+P039,T08,4,,Pyae Htet Yan,11B,fictional-demo
+P040,T08,5,,Moe Thant Aung,7B,fictional-demo
+P041,T09,1,,Soe Khant Thant,9A,fictional-demo
+P042,T09,2,,Kaung Paing Ko,8B,fictional-demo
+P043,T09,3,,Nay Phyo Lin,10B,fictional-demo
+P044,T09,4,,Sai Aung Khant,7A,fictional-demo
+P045,T09,5,,Thant Oo Phyo,10A,fictional-demo
+P046,T10,1,,Hein Kyaw Hein,7A,fictional-demo
+P047,T10,2,,Nay Khant Naing,9B,fictional-demo
+P048,T10,3,,Myat Paing Lin,11B,fictional-demo
+P049,T10,4,,Myat Aung Thant,7A,fictional-demo
+P050,T10,5,,Kyaw Thant Zaw,7A,fictional-demo
+P051,T11,1,,Min Oo Nyein,7A,fictional-demo
+P052,T11,2,,Htet Zaw Min,11B,fictional-demo
+P053,T11,3,,Min Nyein Phyo,9B,fictional-demo
+P054,T11,4,,Moe Htun Zaw,7A,fictional-demo
+P055,T11,5,,Min Paing Ko,11B,fictional-demo
+P056,T12,1,,Thiha Khant Nyein,9A,fictional-demo
+P057,T12,2,,Han Naing Khant,10A,fictional-demo
+P058,T12,3,,Htet Kyaw Kyaw,7A,fictional-demo
+P059,T12,4,,Si Paing Oo,9A,fictional-demo
+P060,T12,5,,Aung Tun Zaw,8A,fictional-demo
+P061,T13,1,,Htun Kyaw Yan,11B,fictional-demo
+P062,T13,2,,Nyan Ko Lin,11B,fictional-demo
+P063,T13,3,,Lin Thant Yan,7A,fictional-demo
+P064,T13,4,,Han Lin Hein,9B,fictional-demo
+P065,T13,5,,Htet Htun Hein,10A,fictional-demo
+P066,T14,1,,Kyaw Tun Nyein,9B,fictional-demo
+P067,T14,2,,Khant Paing Min,7B,fictional-demo
+P068,T14,3,,Moe Win Ko,9B,fictional-demo
+P069,T14,4,,Khant Paing Yan,7A,fictional-demo
+P070,T14,5,,Aung Htet Khant,10B,fictional-demo
+P071,T15,1,,Htet Htet Kyaw,8B,fictional-demo
+P072,T15,2,,Kyaw Zaw Htet,7B,fictional-demo
+P073,T15,3,,Moe Paing Hein,7B,fictional-demo
+P074,T15,4,,Nyan Zaw Nyein,10B,fictional-demo
+P075,T15,5,,Nyi Ko Aung,7B,fictional-demo
