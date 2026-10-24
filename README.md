@@ -52,3 +52,18 @@ Alternative: secrets can be added with `npx wrangler secret put GH_TOKEN` and si
 - Data: `data/{teams,players,matches,seeds}.csv`.
 - Worker: `worker/index.js` (ES module) and `worker/wrangler.toml`.
 - Offline preview: run `python -m http.server 8000` in the root; without the Worker configured, public views load local CSV and organizer editing is unavailable.
+
+## V1.1.1 reliability patch (no installation required)
+
+- Keep your existing GitHub Pages repository, Worker code, credentials, and URL. Replace the site files with this package using GitHub's browser upload; do not overwrite the existing `data/*.csv` with older example data if your live scores or rosters have changed.
+- `js/app.js` now falls back to same-origin GitHub Pages `data/*.csv` whenever the Worker API cannot be reached. These published files can lag the latest commit until Pages deployment finishes.
+- Organizer changes are staged in browser localStorage **before** trying to save. If any save cannot be confirmed, use **Download unpublished CSV backup** in the Organizer page. The recovery panel is displayed even if the organizer cannot sign in. This backup is local to the browser/device; do not clear site storage before exporting it.
+- Successful saves clear the local pending backup **for that dataset only**. Unconfirmed saves are never retried automatically or discarded by an automatic data reload; compare the GitHub file before any manual retry. A network failure can occur after a commit succeeds.
+- Public fallback is read-only; server-side authentication and automatic saving still require a reachable Cloudflare Worker. Data edits in an existing authorized session can be exported as local backups, not guaranteed to publish.
+- Reload and reset are blocked while unpublished backup edits exist. Export and reconcile first, then discard the backup deliberately.
+- Recommended upload for an existing installation: **only replace `index.html` and `js/app.js`**. Do not upload `data/` or Worker files just to install the patch.
+- GitHub Pages must successfully publish the updated `index.html` and `js/app.js` for the patch to take effect. Force-refresh the browser (Ctrl+F5).
+
+### Important limitations
+
+No automatic correction to unreliable network/TLS connections. Browser localStorage isn't synchronized across devices and can be cleared by browser settings. If a save partially succeeds across multiple CSV datasets, export the remaining local backups and compare each file to the GitHub repository. A test on the event's internet connection is required.
