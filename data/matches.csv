@@ -1,36 +1,36 @@
-﻿match_id,stage,group,round,team1,team2,score1,score2,status,time
-G01,group,A,,T01,T02,,,scheduled,
-G02,group,A,,T01,T03,,,scheduled,
-G03,group,A,,T01,T04,,,scheduled,
-G04,group,A,,T02,T03,,,scheduled,
-G05,group,A,,T02,T04,,,scheduled,
-G06,group,A,,T03,T04,,,scheduled,
-G07,group,B,,T05,T06,,,scheduled,
-G08,group,B,,T05,T07,,,scheduled,
-G09,group,B,,T05,T08,,,scheduled,
-G10,group,B,,T06,T07,,,scheduled,
-G11,group,B,,T06,T08,,,scheduled,
-G12,group,B,,T07,T08,,,scheduled,
-G13,group,C,,T09,T10,,,scheduled,
-G14,group,C,,T09,T11,,,scheduled,
-G15,group,C,,T09,T12,,,scheduled,
-G16,group,C,,T10,T11,,,scheduled,
-G17,group,C,,T10,T12,,,scheduled,
-G18,group,C,,T11,T12,,,scheduled,
-G19,group,D,,T13,T14,,,scheduled,
-G20,group,D,,T13,T15,,,scheduled,
-G21,group,D,,T14,T15,,,scheduled,
-U1,upper,,UB QF,,,,,scheduled,
-U2,upper,,UB QF,,,,,scheduled,
-U3,upper,,UB QF,,,,,scheduled,
-U4,upper,,UB QF,,,,,scheduled,
-U5,upper,,UB SF,,,,,scheduled,
-U6,upper,,UB SF,,,,,scheduled,
-U7,upper,,UB Final,,,,,scheduled,
-L1,lower,,LB R1,,,,,scheduled,
-L2,lower,,LB R1,,,,,scheduled,
-L3,lower,,LB R2,,,,,scheduled,
-L4,lower,,LB R2,,,,,scheduled,
-L5,lower,,LB R3,,,,,scheduled,
-L6,lower,,LB Final,,,,,scheduled,
-GF,final,,Grand Final,,,,,scheduled,
+﻿"match_id","stage","group","round","team1","team2","score1","score2","status","time"
+"G01","group","A","","T01","T02","","","scheduled",""
+"G02","group","A","","T01","T03","","","scheduled",""
+"G03","group","A","","T01","T04","","","scheduled",""
+"G04","group","A","","T02","T03","","","scheduled",""
+"G05","group","A","","T02","T04","","","scheduled",""
+"G06","group","A","","T03","T04","","","scheduled",""
+"G07","group","B","","T05","T06","","","scheduled",""
+"G08","group","B","","T05","T07","","","scheduled",""
+"G09","group","B","","T05","T08","","","scheduled",""
+"G10","group","B","","T06","T07","","","scheduled",""
+"G11","group","B","","T06","T08","","","scheduled",""
+"G12","group","B","","T07","T08","","","scheduled",""
+"G13","group","C","","T09","T10","","","scheduled",""
+"G14","group","C","","T09","T11","","","scheduled",""
+"G15","group","C","","T09","T12","","","scheduled",""
+"G16","group","C","","T10","T11","","","scheduled",""
+"G17","group","C","","T10","T12","","","scheduled",""
+"G18","group","C","","T11","T12","","","scheduled",""
+"G19","group","D","","T13","T14","","","scheduled",""
+"G20","group","D","","T13","T15","","","scheduled",""
+"G21","group","D","","T14","T15","","","scheduled",""
+"U1","upper","","UB QF","","","","","scheduled",""
+"U2","upper","","UB QF","","","","","scheduled",""
+"U3","upper","","UB QF","","","","","scheduled",""
+"U4","upper","","UB QF","","","","","scheduled",""
+"U5","upper","","UB SF","","","","","scheduled",""
+"U6","upper","","UB SF","","","","","scheduled",""
+"U7","upper","","UB Final","","","","","scheduled",""
+"L1","lower","","LB R1","","","","","scheduled",""
+"L2","lower","","LB R1","","","","","scheduled",""
+"L3","lower","","LB R2","","","","","scheduled",""
+"L4","lower","","LB R2","","","","","scheduled",""
+"L5","lower","","LB R3","","","","","scheduled",""
+"L6","lower","","LB Final","","","","","scheduled",""
+"GF","final","","Grand Final","","","","","scheduled",""
