@@ -1,0 +1,9 @@
+name = "uqec-mlbb-api"
+main = "index.js"
+compatibility_date = "2026-10-01"
+
+[vars]
+GH_BRANCH = "main"
+GH_OWNER = "REPLACE_GITHUB_USERNAME"
+GH_REPO = "REPLACE_GITHUB_REPOSITORY"
+ALLOWED_ORIGIN = "https://REPLACE_GITHUB_USERNAME.github.io"
