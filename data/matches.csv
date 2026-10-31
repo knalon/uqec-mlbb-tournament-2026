@@ -24,11 +24,11 @@ U1,upper,,BO1 · UB QF,T03,T06,1,0,completed,2026-10-31 13:00 | F2R3 vs F1R2,26,
 U2,upper,,BO1 · UB QF,T12,T13,1,0,completed,2026-10-31 13:00 | F1R1 vs F2R4,29,26,26,29,1076
 U3,upper,,BO1 · UB QF,T07,T01,1,0,completed,2026-10-31 13:00 | F2R1 vs F1R1,31,8,8,31,688
 U4,upper,,BO1 · UB QF,T15,T10,1,0,completed,2026-10-31 13:00 | F1R2 vs F2R2,16,15,15,16,651
-U5,upper,,BO1 · UB SF,,,,,scheduled,2026-10-31 14:00 | F1R1 vs F2R1,,,,,
-U6,upper,,BO1 · UB SF,,,,,scheduled,2026-10-31 14:00 | F2R2 vs F1R1,,,,,
+U5,upper,,BO1 · UB SF,T03,T12,1,0,completed,2026-10-31 14:00 | F1R1 vs F2R1,16,20,20,16,1424
+U6,upper,,BO1 · UB SF,T07,T15,1,0,completed,2026-10-31 14:00 | F2R2 vs F1R1,30,8,8,30,568
 U7,upper,,BO3 · UB Final,,,,,scheduled,2026-11-01 11:00 | F1R1 vs F2R1,,,,,
-L1,lower,,BO1 · LB R1,,,,,scheduled,2026-10-31 14:00 | F1R2 vs F2R3,,,,,
-L2,lower,,BO1 · LB R1,,,,,scheduled,2026-10-31 14:00 | F2R4 vs F1R2,,,,,
+L1,lower,,BO1 · LB R1,T06,T13,1,0,completed,2026-10-31 14:00 | F1R2 vs F2R3,34,15,15,34,759
+L2,lower,,BO1 · LB R1,T01,T10,0,1,completed,2026-10-31 14:00 | F2R4 vs F1R2,32,7,7,32,650
 L3,lower,,BO1 · LB R2,,,,,scheduled,2026-11-01 10:00 | F2R1 vs F1R1,,,,,
 L4,lower,,BO1 · LB R2,,,,,scheduled,2026-11-01 10:00 | F1R1 vs F2R2,,,,,
 L5,lower,,BO3 · LB R3,,,,,scheduled,2026-11-01 11:00 | F2R2 vs F1R1,,,,,
