@@ -20,10 +20,10 @@ G18,group,C,BO1 · Group C,T10,T11,1,0,completed,2026-10-31 11:30 | F2R2 vs F1R1
 G19,group,D,BO1 · Group D,T13,T14,1,0,completed,2026-10-31 10:00 | F1R3 vs F2R4,0,0,0,0,1200
 G20,group,D,BO1 · Group D,T13,T15,0,1,completed,2026-10-31 10:45 | F2R1 vs F1R1,10,20,20,10,629
 G21,group,D,BO1 · Group D,T14,T15,0,1,completed,2026-10-31 11:30 | F1R1 vs F2R2,0,0,0,0,1200
-U1,upper,,BO1 · UB QF,T03,T06,,,scheduled,2026-10-31 13:00 | F2R3 vs F1R2,,,,,
-U2,upper,,BO1 · UB QF,T07,T01,,,scheduled,2026-10-31 13:00 | F1R1 vs F2R4,,,,,
-U3,upper,,BO1 · UB QF,T12,T13,,,scheduled,2026-10-31 13:00 | F2R1 vs F1R1,,,,,
-U4,upper,,BO1 · UB QF,T15,T10,,,scheduled,2026-10-31 13:00 | F1R2 vs F2R2,,,,,
+U1,upper,,BO1 · UB QF,T03,T06,1,0,completed,2026-10-31 13:00 | F2R3 vs F1R2,26,15,15,26,697
+U2,upper,,BO1 · UB QF,T12,T13,1,0,completed,2026-10-31 13:00 | F1R1 vs F2R4,29,26,26,29,1076
+U3,upper,,BO1 · UB QF,T07,T01,1,0,completed,2026-10-31 13:00 | F2R1 vs F1R1,31,8,8,31,688
+U4,upper,,BO1 · UB QF,T15,T10,1,0,completed,2026-10-31 13:00 | F1R2 vs F2R2,16,15,15,16,651
 U5,upper,,BO1 · UB SF,,,,,scheduled,2026-10-31 14:00 | F1R1 vs F2R1,,,,,
 U6,upper,,BO1 · UB SF,,,,,scheduled,2026-10-31 14:00 | F2R2 vs F1R1,,,,,
 U7,upper,,BO3 · UB Final,,,,,scheduled,2026-11-01 11:00 | F1R1 vs F2R1,,,,,
