@@ -32,5 +32,5 @@ L2,lower,,BO1 · LB R1,T01,T10,0,1,completed,2026-10-31 14:00 | F2R4 vs F1R2,32,
 L3,lower,,BO1 · LB R2,T06,T15,1,0,completed,2026-11-01 10:00 | F2R1 vs F1R1,29,2,2,29,652
 L4,lower,,BO1 · LB R2,T10,T12,0,1,completed,2026-11-01 10:00 | F1R1 vs F2R2,4,23,23,4,647
 L5,lower,,BO3 · LB R3,T06,T12,2,1,completed,2026-11-01 11:00 | F2R2 vs F1R1,50,53,53,50,2686
-L6,lower,,BO3 · LB Final,,,,,scheduled,2026-11-01 12:30 | F2R1 vs F1R1,,,,,
-GF,final,,BO5 · Grand Final,,,,,scheduled,2026-11-01 14:15 | F1R1 vs F2R1,,,,,
+L6,lower,,BO3 · LB Final,T06,T03,1,2,completed,2026-11-01 12:30 | F2R1 vs F1R1,32,57,57,32,2417
+GF,final,,BO5 · Grand Final,T07,T03,3,0,completed,2026-11-01 14:15 | F1R1 vs F2R1,66,53,53,66,2961
